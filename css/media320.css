@@ -1,0 +1,14 @@
+@media screen and (max-width: 320px) {
+
+    .header-caption {
+      font-size: 25px;
+    }
+
+    .content-caption {
+      font-size: 22px;
+    }
+
+    .content-number-green {
+      font-size: 20px;
+    }
+  }

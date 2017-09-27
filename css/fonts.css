@@ -1,0 +1,30 @@
+.wrapper {
+  color: #424242;
+  font-family: sans-serif;
+}
+
+.header-caption {
+  font-size: 34px;
+  color: #FF1C00;
+}
+
+.content-number-green {
+  font-size: 23px;
+  color: #008306;
+  font-weight: bold;
+}
+
+.text-red {
+  font-size: 20px;
+  font-weight: bold;
+  color: #FF1C00;
+}
+
+.sentence-text {
+  font-weight: lighter;
+}
+
+.recomendation-text {
+  font-size: 18px;
+  font-weight: bold;
+}

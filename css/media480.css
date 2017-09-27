@@ -1,0 +1,5 @@
+@media screen and (min-width: 321px) and (max-width: 480px){
+  .header-caption {
+    font-size: 28px;
+  }
+}
